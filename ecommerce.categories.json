@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "68022d3e8eb9767b7c7ea2f1"
+  },
+  "name": "Clothing",
+  "subcategories": [
+    "Hoodies",
+    "T-shirts",
+    "Sweatshirts"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68022d3e8eb9767b7c7ea2f2"
+  },
+  "name": "Accessories",
+  "subcategories": [
+    "Hats",
+    "Belts",
+    "Scarves"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68022d3e8eb9767b7c7ea2f3"
+  },
+  "name": "Footwear",
+  "subcategories": [
+    "Sneakers",
+    "Boots",
+    "Sandals"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68022d3e8eb9767b7c7ea2f4"
+  },
+  "name": "Bags",
+  "subcategories": [
+    "Backpacks",
+    "Handbags",
+    "Tote Bags"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68022d3e8eb9767b7c7ea2f5"
+  },
+  "name": "Activewear",
+  "subcategories": [
+    "Gym Wear",
+    "Yoga Pants",
+    "Tracksuits"
+  ]
+}]

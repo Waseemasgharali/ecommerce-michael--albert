@@ -1,0 +1,144 @@
+[{
+  "_id": {
+    "$oid": "680378abc16a71a46aca5a00"
+  },
+  "id": 1,
+  "title": "Autumn Hoodie",
+  "price": 264.9,
+  "image": "https://pangaia.com/cdn/shop/products/Recycled-Nylon-NW-Flwrdwn-Quilted-Collarless-Jacket-Cerulean-Blue-Female-1_bf4b2a54-8a7f-4174-bc49-8ef22b24bfdd.jpg?v=1666708230&width=1426",
+  "category": "Clothing",
+  "subcategory": "Hoodies",
+  "stock": 0
+},
+{
+  "_id": {
+    "$oid": "680378abc16a71a46aca5a01"
+  },
+  "id": 2,
+  "title": "Basic Green Tee",
+  "price": 19.99,
+  "image": "https://pangaia.com/cdn/shop/files/365_Organic_Cotton_T-Shirt_Fennel_Green_Mens-1_b56f817b-94ba-4cb4-9d43-74b39b758b62.jpg?crop=center&height=1023&v=1729648355&width=768",
+  "category": "Clothing",
+  "subcategory": "T-shirts",
+  "stock": 15
+},
+{
+  "_id": {
+    "$oid": "680378abc16a71a46aca5a02"
+  },
+  "id": 3,
+  "title": "Bucket Hat",
+  "price": 35.5,
+  "image": "https://pangaia.com/cdn/shop/products/Oilseed-Hemp-Bucket-Hat-Jade-Green-Female_1.jpg?crop=center&height=1023&v=1724337601&width=768",
+  "category": "Accessories",
+  "subcategory": "Hats",
+  "stock": 0
+},
+{
+  "_id": {
+    "$oid": "680378abc16a71a46aca5a03"
+  },
+  "id": 4,
+  "title": "Leather Belt",
+  "price": 45,
+  "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_550,h_550/global/054483/02/fnd/EEA/fmt/png/Braided-Weave-Men's-Golf-Belt",
+  "category": "Accessories",
+  "subcategory": "Belts",
+  "stock": 6
+},
+{
+  "_id": {
+    "$oid": "680378abc16a71a46aca5a04"
+  },
+  "id": 5,
+  "title": "Classic Sneakers",
+  "price": 79.99,
+  "image": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/6e2884880e504b06ba53d241cf720a4f_9366/Samba_OG_Shoes_White_IG9030_04_standard.jpg",
+  "category": "Footwear",
+  "subcategory": "Sneakers",
+  "stock": 12
+},
+{
+  "_id": {
+    "$oid": "680378abc16a71a46aca5a05"
+  },
+  "id": 6,
+  "title": "Chelsea Boots",
+  "price": 120,
+  "image": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/2fe8f7b660ff406f8d5fb25053c349c0_9366/Terrex_Disney_Snowpitch_Cold.Rdy_Winter_Shoes_Beige_ID3557_02_standard_hover.jpg",
+  "category": "Footwear",
+  "subcategory": "Boots",
+  "stock": 0
+},
+{
+  "_id": {
+    "$oid": "680378abc16a71a46aca5a06"
+  },
+  "id": 7,
+  "title": "Adicolor Backpack",
+  "price": 55.5,
+  "image": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/3cd3492aaba04272859f1aa5e1d3a824_9366/Adicolor_Mini_Bowling_Bag_Yellow_JI9452_04_standard.jpg",
+  "category": "Bags",
+  "subcategory": "Backpacks",
+  "stock": 8
+},
+{
+  "_id": {
+    "$oid": "680378abc16a71a46aca5a07"
+  },
+  "id": 8,
+  "title": "Stretch Yoga Pants",
+  "price": 38.99,
+  "image": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/7b7ad277aeeb46a98db637e86b7c56ce_9366/Adicolor_Classics_Firebird_Track_Pants_Green_JC8283_21_model.jpg",
+  "category": "Activewear",
+  "subcategory": "Yoga Pants",
+  "stock": 13
+},
+{
+  "_id": {
+    "$oid": "680378abc16a71a46aca5a08"
+  },
+  "id": 9,
+  "title": "Tote Bag - Canvas",
+  "price": 22,
+  "image": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/5ea53de12bbd41babe98db62ee4b91ee_9366/ADIDAS_DISNEY_LILO_and_STITCH_BACKPACK_Blue_JG5866_04_standard.jpg",
+  "category": "Bags",
+  "subcategory": "Tote Bags",
+  "stock": 18
+},
+{
+  "_id": {
+    "$oid": "680378abc16a71a46aca5a09"
+  },
+  "id": 10,
+  "title": "Hooded Sweatshirt",
+  "price": 60,
+  "image": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/5a48ddefd555486ba24dc1c80201749e_9366/All_SZN_French_Terry_Colorblock_Crew_Sweatshirt_White_JN9488_21_model.jpg",
+  "category": "Clothing",
+  "subcategory": "Sweatshirts",
+  "stock": 6
+},
+{
+  "_id": {
+    "$oid": "680378abc16a71a46aca5a0a"
+  },
+  "id": 11,
+  "title": "Active Track Jacket",
+  "price": 74.95,
+  "image": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/6c76399ae80e4975b525f68d2c467d41_9366/Adicolor_Classics_Firebird_Track_Pants_Turquoise_JC8287_21_model.jpg",
+  "category": "Activewear",
+  "subcategory": "Tracksuits",
+  "stock": 5
+},
+{
+  "_id": {
+    "$oid": "680378abc16a71a46aca5a0b"
+  },
+  "id": 12,
+  "title": "Baseball Hat",
+  "price": 25,
+  "image": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/ef503debdc4d4f4ca8dfaa0f0044e95c_9366/Relaxed_Strap-Back_Hat_Grey_CL5247_01_standard.jpg",
+  "category": "Accessories",
+  "subcategory": "Hats",
+  "stock": 14
+}]
