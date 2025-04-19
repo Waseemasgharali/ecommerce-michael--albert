@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ecommerce Website</title>
+    <!-- Link To CSS -->
+    <link rel="stylesheet" href="css/style.css" />
+    <!-- Box Icons -->
+    <link
+      href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <!-- Header -->
+    <header>
+      <!-- Nav -->
+      <div class="nav container">
+        <!-- Menu Icon -->
+        <i class="bx bx-menu" id="menu-icon"></i>
+        <!-- Logo -->
+        <a href="/" class="logo">Costy</a>
+        <!-- Navbar -->
+        <div class="navbar">
+          <a href="index.html#products" class="nav-link">Woman</a>
+          <a href="index.html#products" class="nav-link">Man</a>
+          <a href="#" class="nav-link">Kids</a>
+          <a href="#" class="nav-link">Accessories</a>
+        </div>
+       <!-- Nav right -->
+        <div class="nav-right">
+              <!-- Search Icon -->
+              <i class="bx bx-search" id="search-icon"></i>
+              <!-- Cart-Icon -->
+              <a href="cart.html">
+                <i class="bx bx-shopping-bag" id="cart-icon" data-quantity="0"></i>
+              </a>
+        </div>
+       
+      </div>
+    </header>
+    <!-- Search Box -->
+    <div id="search-box" style="display: none;">
+      <i class="bx bx-x" id="close-search"></i>
+      <input type="text" id="search-input" placeholder="Search products...">
+      <div id="search-hints">Type to search</div>
+      <div id="search-results"></div>
+    </div>
+    <!-- Home -->
+    <section class="home" id="home">
+      <div class="home-img container">
+        <img src="images/home.png" alt="" />
+      </div>
+    </section>
+    <!-- Products -->
+    <section class="products container" id="products">
+      <!-- Heading -->
+      <h2 class="heading">Discover Product</h2>
+          <!-- Category Menu -->
+    <div class="category-menu">
+      <div class="filter-display">
+        <span id="current-filter"></span>
+        <i class="bx bx-x" id="clear-filter" style="display: none;"></i>
+      </div>
+      <div class="categories-row" id="categoriesRow">
+        <!-- Categories will be inserted here -->
+      </div>
+      <div class="subcategories-row" id="subcategoriesRow" style="display: none;">
+        <!-- Subcategories will be inserted here -->
+      </div>
+    </div>
+      <!-- Products Container -->
+      <div class="product-container" id="productList"></div>
+    </section>
+    <!-- Footer -->
+    <div class="footer" id="footer">
+      <div class="footer-c container">
+        <div class="footer-box">
+          <h2>Costy</h2>
+          <div class="social">
+            <a href="#"><i class="bx bxl-pinterest-alt"></i></a>
+            <a href="#"><i class="bx bxl-instagram"></i></a>
+            <a href="#"><i class="bx bxl-facebook"></i></a>
+            <a href="#"><i class="bx bxl-whatsapp"></i></a>
+            <a href="#"><i class="bx bxl-youtube"></i></a>
+          </div>
+        </div>
+        <div class="footer-box">
+          <h3>Help</h3>
+          <a href="#">Contact Us</a>
+          <a href="#">Faq</a>
+          <a href="#">Shipment</a>
+          <a href="#">Payment</a>
+          <a href="#">Track Your Order</a>
+          <a href="#">Return Your Order</a>
+        </div>
+        <div class="footer-box">
+          <h3>Legal Info</h3>
+          <a href="#">Privacy Policy</a>
+          <a href="#">Terms & Condition</a>
+          <a href="#">Return Policy</a>
+          <a href="#">Comunity</a>
+          <a href="#">Get Card</a>
+        </div>
+      </div>
+      <p class="copyright container">&#169 Costy Studio</p>
+    </div>
+    <!-- Toast Container -->
+    <div id="toast-container" class="toast-container"></div>
+    <!-- Link To JS -->
+    <script src="js/main.js"></script>
+    <script src="js/menu.js"></script>
+    <script src="js/search.js"></script>
+  <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'932adb0f89a01392',t:'MTc0NTA0OTQ5NS4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
